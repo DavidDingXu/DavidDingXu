@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="360" viewBox="0 0 640 360" role="img" aria-labelledby="title desc">
+  <title id="title">好好用 AI · DavidDingXu</title>
+  <desc id="desc">看懂 AI，用好 AI。模型原理、AI Coding、Java + AI 与 Agent 工具。</desc>
+  <rect width="640" height="360" rx="16" fill="#101d30"/>
+  <path d="M524 36H600V112M600 74H564V112M600 306H524" fill="none" stroke="#2a3d57" stroke-width="2"/>
+  <circle cx="564" cy="112" r="5" fill="#8abbff"/>
+  <rect x="34" y="36" width="4" height="17" rx="2" fill="#8abbff"/>
+  <g font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'PingFang SC', 'Microsoft YaHei', 'Noto Sans CJK SC', sans-serif">
+    <text x="50" y="50" font-size="18" font-weight="600" letter-spacing=".7" fill="#a4b7d2">DAVIDDINGXU / 好好用 AI</text>
+    <text x="31" y="139" font-size="62" font-weight="750" letter-spacing="-1" fill="#edf4ff">看懂 AI，</text>
+    <text x="31" y="217" font-size="62" font-weight="750" letter-spacing="-1" fill="#8abbff">用好 AI。</text>
+    <text x="35" y="267" font-size="22" fill="#a4b7d2">从可运行的例子出发，把原理讲清楚。</text>
+    <path d="M35 289H605" stroke="#2a3d57"/>
+    <text x="35" y="325" font-size="18" fill="#c4d6ed">模型原理<tspan fill="#59718e">　/　</tspan>AI Coding<tspan fill="#59718e">　/　</tspan>Java + AI<tspan fill="#59718e">　/　</tspan>Agent</text>
+  </g>
+</svg>
