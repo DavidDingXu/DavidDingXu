@@ -17,11 +17,17 @@
 
 三套已完结课程，全文免费阅读，附配套代码与 PDF / EPUB 电子书。
 
-| 课程 | 你会学到什么 | 阅读与代码 |
-| :--- | :--- | :--- |
-| **Java AI 应用开发实战**<br>52 篇文章 | 沿一条客户服务业务链，学习 Spring AI、企业 RAG、受控 Agent 与上线治理。 | [在线阅读](https://daviddingxu.github.io/learn-java-ai/)<br>[配套仓库](https://github.com/DavidDingXu/learn-java-ai) |
-| **程序员 AI Coding 进阶实战**<br>42 篇文章 | 在真实代码库中，建立从上下文、规格到实现、测试与审查的个人工作流。 | [在线阅读](https://daviddingxu.github.io/learn-ai-coding/)<br>[配套仓库](https://github.com/DavidDingXu/learn-ai-coding) |
-| **AI Coding 团队化实战**<br>14 篇文章 | 把个人经验带进研发团队：共同规则、需求拆分、验证治理与协作接管。 | [在线阅读](https://daviddingxu.github.io/ai-coding-for-teams/)<br>[配套仓库](https://github.com/DavidDingXu/ai-coding-for-teams) |
+**[Java AI 应用开发实战](https://daviddingxu.github.io/learn-java-ai/)** · 52 篇文章<br>
+沿一条客户服务业务链，学习 Spring AI、企业 RAG、受控 Agent 与上线治理。<br>
+[在线阅读](https://daviddingxu.github.io/learn-java-ai/) · [配套代码](https://github.com/DavidDingXu/learn-java-ai) · [电子书](https://daviddingxu.github.io/learn-java-ai/#downloads)
+
+**[程序员 AI Coding 进阶实战](https://daviddingxu.github.io/learn-ai-coding/)** · 42 篇文章<br>
+在真实代码库中，建立从上下文、规格到实现、测试与审查的个人工作流。<br>
+[在线阅读](https://daviddingxu.github.io/learn-ai-coding/) · [配套代码](https://github.com/DavidDingXu/learn-ai-coding) · [电子书](https://daviddingxu.github.io/learn-ai-coding/#downloads)
+
+**[AI Coding 团队化实战](https://daviddingxu.github.io/ai-coding-for-teams/)** · 14 篇文章<br>
+把个人经验带进研发团队：共同规则、需求拆分、验证治理与协作接管。<br>
+[在线阅读](https://daviddingxu.github.io/ai-coding-for-teams/) · [配套代码](https://github.com/DavidDingXu/ai-coding-for-teams) · [电子书](https://daviddingxu.github.io/ai-coding-for-teams/#downloads)
 
 **新课筹备中 · [Hello LLM：手写小模型，看懂大模型](https://github.com/DavidDingXu/hello-llm)**<br>
 从一个神经元到文字生成，用图解、代码和浏览器实验理解语言模型。
